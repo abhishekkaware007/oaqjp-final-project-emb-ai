@@ -1,4 +1,6 @@
-# Emotion Detection Using Watson NLP
+# Final Project
+
+## Emotion Detection Using Watson NLP
 
 Final Project for the Coursera course **"Developing AI Applications with Python and Flask"**.
 
